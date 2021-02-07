@@ -1,9 +1,16 @@
 Planning channel youtube
 + membuat thumnail 
+  thumnail nya akan berwarna merah dan biru teranng dengan aksen -,+,dan garis garis
+  
 + membuat nama channel 
-+ menggunakan autotun 
+  nama channel akan berbeda dengan nama asli karena ingin menutupi identitas tema nya tentang masa depan jadi karakter ini datang dari masa depan untuk mereview tentang masa lalu
+  
++ menggunakan autotun
+  tidak ada penjelasan yang yang mendalam tentang kenapa harus pakai autotun karena menutupi identitas
+  
 + konten
   - memain minecraft 
   - membuat kemajuan soal programming
   - tutorial singkat tentang programming namun padat
+  
 + bahas technologi terbaru
