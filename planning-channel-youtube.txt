@@ -10,6 +10,7 @@ Planning channel youtube
   
 + konten
   - memain minecraft 
+  - project prangkat keras
   - membuat kemajuan soal programming
   - tutorial singkat tentang programming namun padat
   
