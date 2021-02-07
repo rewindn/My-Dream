@@ -1,0 +1,9 @@
+Planning channel youtube
++ membuat thumnail 
++ membuat nama channel 
++ menggunakan autotun 
++ konten
+  - memain minecraft 
+  - membuat kemajuan soal programming
+  - tutorial singkat tentang programming namun padat
++ bahas technologi terbaru
