@@ -26,5 +26,9 @@ di file ini berisi tentang deskripsi tentang pelajaran dari setiap commit
    
    + berkontribusi dengan pull request
    jadi misalkan kita mengembangkan project dari repo orang lain kita bisa request hasil project kita
+   
+4.Multiple Fork
+  intinya sama kayak fork cuman kita nyimpennya di local jadi bisa di edit di lokal 
+    
   
 
