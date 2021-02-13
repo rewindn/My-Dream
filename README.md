@@ -29,6 +29,9 @@ di file ini berisi tentang deskripsi tentang pelajaran dari setiap commit
    
 4.Multiple Fork
   intinya sama kayak fork cuman kita nyimpennya di local jadi bisa di edit di local 
+
+5.Gitignore 
+  .gitignore berfungsi untuk membiarkan file tertentu yang biasanya besa untuk tidak masuk ke staging area
     
   
 
